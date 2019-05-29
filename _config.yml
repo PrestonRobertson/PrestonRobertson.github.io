@@ -1,1 +1,8 @@
+title: Preston Robertson
+email: dev@pwrobertson.com
+description: >
+  I am a developer.
+url: "https://prestonrobertson.github.io"
+baseurl: "/"
+github_username: "PrestonRobertson"
 theme: jekyll-theme-cayman
