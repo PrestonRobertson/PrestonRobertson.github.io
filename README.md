@@ -1,6 +1,5 @@
 ---
 title: Preston Robertson
-layout: post
 ---
 
 ## My Name is Preston Robertson
